@@ -1,1 +1,2 @@
-# data_analysis_p2
+# data_analysis_p2 
+# Author: Emily Sun
